@@ -4,6 +4,10 @@
 
 El objetivo de este documento es realizar una explicación exhaustiva del proceso de creación de los 3 algoritmos con los cuales se calcula el valor de phi mediante el método de Montecarlo.
 
+![](graficos/PCAM.PNG)
+
+<p align="center" style="text-aling=center"> <i> Metodología PCAM </i> </p>
+
 La fórmula y el funcionamiento del método se pueden ver representadas en el siguiente algoritmo:
 
 ##### Algoritmo secuencial
