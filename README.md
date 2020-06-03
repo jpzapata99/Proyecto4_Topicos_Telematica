@@ -43,7 +43,7 @@ Para ejecutar el método secuencialmente se debe ejecutar el archivo [montecarlo
 ### Monte Carlo paralelo OpenMP (pymp)
 Inicialmente se debe instalar la biblioteca ```pymp``` de la siguiente manera:
 ```ssh
-$ pip install pymp-pypi
+$ pip install --user pymp-pypi
 ```
 Luego debemos ejecutar el archivo [montecarlo_parallel.py](https://github.com/jpzapata99/Proyecto4_Topicos_Telematica/blob/master/montecarlo_parallel.py) de la siguiente manera:
 
@@ -61,7 +61,7 @@ Ejemplo:
 Antes de ejecutar el algoritmo debemos instalar la biblioteca ```mpi4py``` de la siguiente manera:
 
 ```ssh
-$ pip install mpi4py
+$ pip install --user mpi4py
 ```
 
 Luego debemos ejecutar el archivo [montecarlo_mpi.py](https://github.com/jpzapata99/Proyecto4_Topicos_Telematica/blob/master/montecarlo_mpi.py) de la siguiente manera:
