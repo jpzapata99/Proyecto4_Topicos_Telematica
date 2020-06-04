@@ -12,7 +12,7 @@
     + [Comparación de resultados respecto al numero de hilos (OpenMP)](#comparaci-n-de-resultados-respecto-al-numero-de-hilos--openmp-)
     + [Comparación de resultados respecto al numero de procesadores(MPI)](#comparaci-n-de-resultados-respecto-al-numero-de-procesadores-mpi-)
     + [Análisis de los resultados respecto a la cantidad de datos](#an-lisis-de-los-resultados-respecto-a-la-cantidad-de-datos)
-    + [Definición del proyecto](#definici-n-del-proyecto)
+   * [Definición del proyecto](#definici-n-del-proyecto)
 
 
 ## Desarrolladores
