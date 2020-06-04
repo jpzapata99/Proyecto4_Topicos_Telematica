@@ -12,6 +12,7 @@
     + [Comparación de resultados respecto al numero de hilos (OpenMP)](#comparaci-n-de-resultados-respecto-al-numero-de-hilos--openmp-)
     + [Comparación de resultados respecto al numero de procesadores(MPI)](#comparaci-n-de-resultados-respecto-al-numero-de-procesadores-mpi-)
     + [Análisis de los resultados respecto a la cantidad de datos](#an-lisis-de-los-resultados-respecto-a-la-cantidad-de-datos)
+    + [Definición del proyecto](#definici-n-del-proyecto)
 
 
 ## Desarrolladores
@@ -109,3 +110,6 @@ Con 1'000.000 de puntos:
 ![](graficos/pi_1mp.png)
 
 Como se puede ver en los gráficos el valor de π se hace cada vez mas exacto a medida que aumenta el numero de puntos generados y procesados.
+
+### Definición del proyecto
+[https://drive.google.com/drive/folders/1nenUITNvWZIfMBP33fA_b2DQlVA9zT0N?usp=sharing](https://drive.google.com/drive/folders/1nenUITNvWZIfMBP33fA_b2DQlVA9zT0N?usp=sharing)
